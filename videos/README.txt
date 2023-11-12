@@ -1,2 +1,3 @@
-CompPart
-FrontBack
+ComputerPart.mp4 - объяснение работы модели
+FrontBack.mp4 - объяснение работы фронтенд и бекенд частей
+screencast.mp4 - скринкаст (работа связки)
